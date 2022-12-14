@@ -1,4 +1,4 @@
-package CoreJavaPrograms;
+package com.core_java_programs;
 import java.util.Random;
 import java.util.Scanner;
 public class FlipCoin {
